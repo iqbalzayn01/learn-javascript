@@ -1,4 +1,4 @@
-// Map
+// MAP
 // Map adalah tipe data yang menyimpan koleksi data dengan format key-value layaknya Object. 
 
 // Mendefinisikan Map;

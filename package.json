@@ -1,0 +1,21 @@
+{
+  "name": "learnjavascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqbalzayn01/learn-javascript.git"
+  },
+  "author": "Iqbal Zayyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqbalzayn01/learn-javascript/issues"
+  },
+  "homepage": "https://github.com/iqbalzayn01/learn-javascript#readme",
+  "keywords": [],
+  "description": ""
+}
